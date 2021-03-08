@@ -9,4 +9,4 @@ RUG.html is the HTML of the RUG Wikipedia page. It has been downloaded directly 
 This has been done using the 'save as' feature, which downloads a page's HTML and other files. 
 Only the .html file is needed for this script. Other files (such as .png files) might be discarded.
 
-When applied to RUG.html, Milestone5.sh outputs 182. This means there are 182 occurences of the word 'de' on the RUG Wikipedia page. 
+When applied to RUG.html, Milestone5.sh outputs 182. This means there are 182 occurrences of the word 'de' on the RUG Wikipedia page. 
