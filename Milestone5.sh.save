@@ -1,0 +1,2 @@
+cat 'Rijksuniversiteit Groningen - Wikipedia.html' |\
+grep -v -E '<[^>]>'
