@@ -1,7 +1,4 @@
-# USAGE: in the Linux command line, enter ./Milestone5.sh <wiki>.html
-
-# makes the code executable without having to enter its full name
-#!/bin/bash
+# USAGE: in the Linux command line, enter: bash Milestone5.sh <wiki>.html
 
 # reads the .html file given as an argument
 cat $1 |\
