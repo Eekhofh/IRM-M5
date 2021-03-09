@@ -1,4 +1,4 @@
-# USAGE: in the command line, enter ./Milestone5.sh <wiki>.html
+# USAGE: in the Linux command line, enter ./Milestone5.sh <wiki>.html
 
 # makes the code executable without having to enter its full name
 #!/bin/bash
