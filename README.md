@@ -7,9 +7,10 @@ Its usage and the ways in which it works can be found in the Milestone5.sh file'
 
 Data
 
-RUG.html is the HTML of the RUG Wikipedia page. It has been downloaded directly from this webpage: https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen . 
+To run this script, a .html file is necessary. RUG.html is the HTML of the RUG Wikipedia page. It has been downloaded directly from this webpage: https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen . 
 This has been done using the 'save as' feature, which downloads a page's HTML and other files. 
 Only the .html file is needed for this script. Other files (such as .png files) might be discarded.
+By using a downloaded .html file, the program does not need Internet access every time it is run. 
 
 Results
 
